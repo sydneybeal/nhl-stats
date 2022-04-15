@@ -1,0 +1,349 @@
+,player_person_id,player_person_currentTeam_name,player_person_fullName,player_stats_skaterStats_assists,player_stats_skaterStats_goals,side
+0,ID8474709,New York Islanders,Matt Martin,0,1,home
+1,ID8477936,New York Islanders,Michael Dal Colle,0,0,home
+2,ID8476429,New York Islanders,Scott Mayfield,0,0,home
+3,ID8470187,New York Islanders,Johnny Boychuk,0,0,home
+4,ID8473575,New York Islanders,Semyon Varlamov,0,0,home
+5,ID8475314,New York Islanders,Anders Lee,0,0,home
+6,ID8475754,New York Islanders,Brock Nelson,0,0,home
+7,ID8471217,New York Islanders,Andrew Ladd,0,0,home
+8,ID8475832,New York Islanders,Tom Kuhnhackl,1,0,home
+9,ID8478038,New York Islanders,Devon Toews,1,0,home
+10,ID8480865,New York Islanders,Noah Dobson,0,0,home
+11,ID8474573,New York Islanders,Josh Bailey,1,0,home
+12,ID8473463,New York Islanders,Leo Komarov,0,0,home
+13,ID8475181,New York Islanders,Nick Leddy,0,0,home
+14,ID8480222,New York Islanders,Sebastian Aho,0,0,home
+15,ID8476917,New York Islanders,Adam Pelech,0,0,home
+16,ID8477506,New York Islanders,Ryan Pulock,1,1,home
+17,ID8473544,New York Islanders,Derick Brassard,1,0,home
+18,ID8476419,New York Islanders,Jean-Gabriel Pageau,0,0,home
+19,ID8473504,New York Islanders,Cal Clutterbuck,0,0,home
+20,ID8479526,New York Islanders,Otto Koivula,0,0,home
+21,ID8477527,New York Islanders,Ross Johnston,0,0,home
+22,ID8472382,New York Islanders,Andy Greene,1,0,home
+23,ID8478445,New York Islanders,Mathew Barzal,1,0,home
+24,ID8476444,New York Islanders,Christopher Gibson,0,0,home
+25,ID8474586,New York Islanders,Jordan Eberle,0,2,home
+26,ID8478463,New York Islanders,Anthony Beauvillier,1,0,home
+27,ID8475231,New York Islanders,Casey Cizikas,0,0,home
+28,ID8474066,New York Islanders,Thomas Hickey,0,0,home
+29,ID8471735,Florida Panthers,Keith Yandle,2,0,away
+30,ID8471873,Florida Panthers,Anton Stralman,0,0,away
+31,ID8474149,Florida Panthers,Evgenii Dadonov,0,0,away
+32,ID8477932,Florida Panthers,Aaron Ekblad,0,0,away
+33,ID8474884,Florida Panthers,Mike Hoffman,1,1,away
+34,ID8478569,Florida Panthers,Noel Acciari,0,0,away
+35,ID8474098,Florida Panthers,Colton Sceviour,0,0,away
+36,ID8475287,Florida Panthers,Erik Haula,0,0,away
+37,ID8475683,Florida Panthers,Sergei Bobrovsky,0,0,away
+38,ID8476456,Florida Panthers,Jonathan Huberdeau,1,0,away
+39,ID8477346,Florida Panthers,MacKenzie Weegar,0,0,away
+40,ID8479388,Florida Panthers,Riley Stillman,0,0,away
+41,ID8477384,Florida Panthers,Josh Brown,0,0,away
+42,ID8478211,Florida Panthers,Dryden Hunt,0,0,away
+43,ID8478470,Florida Panthers,Sam Montembeault,0,0,away
+44,ID8470619,Florida Panthers,Brian Boyle,0,0,away
+45,ID8480185,Florida Panthers,Eetu Luostarinen,0,0,away
+46,ID8478839,Florida Panthers,Aleksi Saarela,0,0,away
+47,ID8476875,Florida Panthers,Mike Matheson,0,0,away
+48,ID8476952,Florida Panthers,Dominic Toninato,0,0,away
+49,ID8478027,Florida Panthers,Lucas Wallmark,0,0,away
+50,ID8475796,Florida Panthers,Mark Pysyk,0,0,away
+51,ID8479597,Florida Panthers,Chase Priskie,0,0,away
+52,ID8478366,Florida Panthers,Frank Vatrano,0,0,away
+53,ID8477475,Florida Panthers,Philippe Desrosiers,0,0,away
+54,ID8475792,Florida Panthers,Brett Connolly,0,0,away
+55,ID8477493,Florida Panthers,Aleksander Barkov,0,1,away
+56,ID8481442,Florida Panthers,Brady Keeper,0,0,away
+57,ID8480015,Florida Panthers,Owen Tippett,0,0,away
+58,ID8475218,Nashville Predators,Mattias Ekholm,1,0,home
+59,ID8476428,Nashville Predators,Rocco Grimaldi,1,0,home
+60,ID8478508,Nashville Predators,Yakov Trenin,0,0,home
+61,ID8475714,Nashville Predators,Calle Jarnkrok,0,1,home
+62,ID8476925,Nashville Predators,Colton Sissons,1,0,home
+63,ID8475797,Nashville Predators,Jarred Tinordi,0,0,home
+64,ID8476887,Nashville Predators,Filip Forsberg,0,0,home
+65,ID8475798,Nashville Predators,Mikael Granlund,0,0,home
+66,ID8474009,Nashville Predators,Nick Bonino,0,1,home
+67,ID8474600,Nashville Predators,Roman Josi,1,0,home
+68,ID8476278,Nashville Predators,Colin Blackwell,0,0,home
+69,ID8478851,Nashville Predators,Alexandre Carrier,0,0,home
+70,ID8475168,Nashville Predators,Matt Duchene,0,0,home
+71,ID8477424,Nashville Predators,Juuse Saros,0,0,home
+72,ID8480009,Nashville Predators,Eeli Tolvanen,0,0,home
+73,ID8477446,Nashville Predators,Michael McCarron,0,0,home
+74,ID8474134,Nashville Predators,Yannick Weber,0,0,home
+75,ID8478971,Nashville Predators,Connor Ingram,0,0,home
+76,ID8473560,Nashville Predators,Korbinian Holzer,0,0,home
+77,ID8469465,Nashville Predators,Dan Hamhuis,0,0,home
+78,ID8475225,Nashville Predators,Craig Smith,0,0,home
+79,ID8475766,Nashville Predators,Austin Watson,0,0,home
+80,ID8477901,Nashville Predators,Daniel Carr,0,0,home
+81,ID8475793,Nashville Predators,Ryan Johansen,1,1,home
+82,ID8477234,Nashville Predators,Troy Grosenick,0,0,home
+83,ID8474068,Nashville Predators,Kyle Turris,0,0,home
+84,ID8475176,Nashville Predators,Ryan Ellis,0,0,home
+85,ID8479371,Nashville Predators,Dante Fabbro,0,0,home
+86,ID8478042,Nashville Predators,Viktor Arvidsson,0,1,home
+87,ID8474604,Arizona Coyotes,Aaron Ness,0,0,away
+88,ID8476994,Arizona Coyotes,Vinnie Hinostroza,0,0,away
+89,ID8478474,Arizona Coyotes,Lawson Crouse,0,1,away
+90,ID8479345,Arizona Coyotes,Jakob Chychrun,0,0,away
+91,ID8480849,Arizona Coyotes,Barrett Hayton,0,0,away
+92,ID8478432,Arizona Coyotes,Christian Fischer,1,0,away
+93,ID8478476,Arizona Coyotes,Kyle Capobianco,0,0,away
+94,ID8479343,Arizona Coyotes,Clayton Keller,0,1,away
+95,ID8471262,Arizona Coyotes,Carl Soderberg,0,0,away
+96,ID8481599,Arizona Coyotes,Victor Soderstrom,0,0,away
+97,ID8471769,Arizona Coyotes,Niklas Hjalmarsson,0,0,away
+98,ID8475808,Arizona Coyotes,Michael Chaput,0,0,away
+99,ID8474613,Arizona Coyotes,Derek Stepan,1,0,away
+100,ID8478856,Arizona Coyotes,Conor Garland,0,0,away
+101,ID8470755,Arizona Coyotes,Brad Richardson,0,0,away
+102,ID8473548,Arizona Coyotes,Phil Kessel,0,0,away
+103,ID8477989,Arizona Coyotes,Christian Dvorak,0,0,away
+104,ID8474218,Arizona Coyotes,Jason Demers,0,0,away
+105,ID8473546,Arizona Coyotes,Michael Grabner,0,0,away
+106,ID8477851,Arizona Coyotes,Jordan Oesterle,1,0,away
+107,ID8475311,Arizona Coyotes,Darcy Kuemper,0,0,away
+108,ID8477951,Arizona Coyotes,Nick Schmaltz,0,0,away
+109,ID8479633,Arizona Coyotes,Brayden Burke,0,0,away
+110,ID8471274,Arizona Coyotes,Alex Goligoski,0,0,away
+111,ID8480913,Arizona Coyotes,Jordan Gross,0,0,away
+112,ID8475791,Arizona Coyotes,Taylor Hall,0,0,away
+113,ID8477392,Arizona Coyotes,Hudson Fasching,0,0,away
+114,ID8475171,Arizona Coyotes,Oliver Ekman-Larsson,0,0,away
+115,ID8480950,Arizona Coyotes,Ilya Lyubushkin,0,0,away
+116,ID8475718,Toronto Maple Leafs,Justin Holl,0,0,home
+117,ID8477939,Toronto Maple Leafs,William Nylander,1,0,home
+118,ID8481582,Toronto Maple Leafs,Nicholas Robertson,0,0,home
+119,ID8478408,Toronto Maple Leafs,Travis Dermott,1,0,home
+120,ID8475716,Toronto Maple Leafs,Martin Marincin,0,0,home
+121,ID8477953,Toronto Maple Leafs,Kasperi Kapanen,0,0,home
+122,ID8479318,Toronto Maple Leafs,Auston Matthews,1,1,home
+123,ID8478115,Toronto Maple Leafs,Pierre Engvall,0,0,home
+124,ID8475166,Toronto Maple Leafs,John Tavares,0,1,home
+125,ID8475883,Toronto Maple Leafs,Frederik Andersen,0,0,home
+126,ID8477021,Toronto Maple Leafs,Alexander Kerfoot,1,0,home
+127,ID8477464,Toronto Maple Leafs,Nic Petan,0,0,home
+128,ID8479288,Toronto Maple Leafs,Kasimir Kaskisuo,0,0,home
+129,ID8480043,Toronto Maple Leafs,Timothy Liljegren,0,0,home
+130,ID8475160,Toronto Maple Leafs,Kyle Clifford,0,0,home
+131,ID8479361,Toronto Maple Leafs,Joseph Woll,0,0,home
+132,ID8476879,Toronto Maple Leafs,Cody Ceci,0,0,home
+133,ID8475786,Toronto Maple Leafs,Zach Hyman,1,0,home
+134,ID8476853,Toronto Maple Leafs,Morgan Rielly,0,1,home
+135,ID8481624,Toronto Maple Leafs,Ilya Mikheyev,0,0,home
+136,ID8474162,Toronto Maple Leafs,Jake Muzzin,0,0,home
+137,ID8477512,Toronto Maple Leafs,Frederik Gauthier,0,0,home
+138,ID8478843,Toronto Maple Leafs,Denis Malgin,0,0,home
+139,ID8475197,Toronto Maple Leafs,Tyson Barrie,0,0,home
+140,ID8478483,Toronto Maple Leafs,Mitchell Marner,0,0,home
+141,ID8469455,Toronto Maple Leafs,Jason Spezza,0,0,home
+142,ID8480157,Toronto Maple Leafs,Calle Rosen,0,0,home
+143,ID8480873,Toronto Maple Leafs,Rasmus Sandin,0,0,home
+144,ID8480074,Columbus Blue Jackets,Alexandre Texier,0,0,away
+145,ID8478906,Columbus Blue Jackets,Markus Nutivaara,0,0,away
+146,ID8478506,Columbus Blue Jackets,Gabriel Carlsson,0,0,away
+147,ID8477416,Columbus Blue Jackets,Oliver Bjorkstrand,0,0,away
+148,ID8476449,Columbus Blue Jackets,Scott Harrington,0,0,away
+149,ID8480205,Columbus Blue Jackets,Emil Bemstrom,0,0,away
+150,ID8476431,Columbus Blue Jackets,Adam Clendening,0,0,away
+151,ID8476850,Columbus Blue Jackets,Ryan Murray,0,0,away
+152,ID8476432,Columbus Blue Jackets,Boone Jenner,0,0,away
+153,ID8479369,Columbus Blue Jackets,Andrew Peeke,0,0,away
+154,ID8478831,Columbus Blue Jackets,Kevin Stenlund,0,0,away
+155,ID8479400,Columbus Blue Jackets,Pierre-Luc Dubois,0,0,away
+156,ID8476870,Columbus Blue Jackets,Stefan Matteau,0,0,away
+157,ID8480762,Columbus Blue Jackets,Eric Robinson,0,0,away
+158,ID8471804,Columbus Blue Jackets,Nathan Gerbe,0,0,away
+159,ID8480162,Columbus Blue Jackets,Matiss Kivlenieks,0,0,away
+160,ID8474679,Columbus Blue Jackets,Gustav Nyquist,0,0,away
+161,ID8476913,Columbus Blue Jackets,Devin Shore,0,0,away
+162,ID8473422,Columbus Blue Jackets,Nick Foligno,0,0,away
+163,ID8476914,Columbus Blue Jackets,Joonas Korpisalo,0,0,away
+164,ID8474715,Columbus Blue Jackets,Cam Atkinson,0,0,away
+165,ID8477505,Columbus Blue Jackets,Alexander Wennberg,0,0,away
+166,ID8475233,Columbus Blue Jackets,David Savard,0,0,away
+167,ID8474062,Columbus Blue Jackets,Riley Nash,0,0,away
+168,ID8478567,Columbus Blue Jackets,Dean Kukan,0,0,away
+169,ID8477495,Columbus Blue Jackets,Seth Jones,0,0,away
+170,ID8478882,Columbus Blue Jackets,Vladislav Gavrikov,0,0,away
+171,ID8478460,Columbus Blue Jackets,Zach Werenski,0,0,away
+172,ID8480853,Columbus Blue Jackets,Liam Foudy,0,0,away
+173,ID8473618,Winnipeg Jets,Mathieu Perreault,0,0,home
+174,ID8471218,Winnipeg Jets,Blake Wheeler,1,0,home
+175,ID8473914,Winnipeg Jets,Mark Letestu,0,0,home
+176,ID8476406,Winnipeg Jets,Nicholas Shore,0,0,home
+177,ID8476945,Winnipeg Jets,Connor Hellebuyck,0,0,home
+178,ID8475236,Winnipeg Jets,Cody Eakin,0,0,home
+179,ID8477359,Winnipeg Jets,Tucker Poolman,0,0,home
+180,ID8479339,Winnipeg Jets,Patrik Laine,0,0,home
+181,ID8481019,Winnipeg Jets,David Gustafsson,0,0,home
+182,ID8478458,Winnipeg Jets,Jack Roslovic,0,0,home
+183,ID8477940,Winnipeg Jets,Nikolaj Ehlers,0,1,home
+184,ID8475268,Winnipeg Jets,Gabriel Bourque,0,0,home
+185,ID8478891,Winnipeg Jets,Mason Appleton,0,0,home
+186,ID8476331,Winnipeg Jets,Dylan DeMelo,0,0,home
+187,ID8478398,Winnipeg Jets,Kyle Connor,0,0,home
+188,ID8477480,Winnipeg Jets,Eric Comrie,0,0,home
+189,ID8476392,Winnipeg Jets,Adam Lowry,0,0,home
+190,ID8480145,Winnipeg Jets,Neal Pionk,1,0,home
+191,ID8476470,Winnipeg Jets,Nathan Beaulieu,1,0,home
+192,ID8478915,Winnipeg Jets,Sami Niku,0,0,home
+193,ID8477429,Winnipeg Jets,Andrew Copp,0,1,home
+194,ID8475868,Winnipeg Jets,Anthony Bitetto,0,0,home
+195,ID8477504,Winnipeg Jets,Josh Morrissey,0,0,home
+196,ID8474579,Winnipeg Jets,Luca Sbisa,0,0,home
+197,ID8475179,Winnipeg Jets,Dmitry Kulikov,1,0,home
+198,ID8476400,Winnipeg Jets,Logan Shaw,0,0,home
+199,ID8478424,Winnipeg Jets,Jansen Harkins,0,0,home
+200,ID8476460,Winnipeg Jets,Mark Scheifele,0,0,home
+201,ID8477472,Winnipeg Jets,Carl Dahlstrom,0,0,home
+202,ID8479574,Winnipeg Jets,Mikhail Berdin,0,0,home
+203,ID8470966,Calgary Flames,Mark Giordano,1,0,away
+204,ID8474628,Calgary Flames,Michael Stone,0,0,away
+205,ID8477935,Calgary Flames,Sam Bennett,0,0,away
+206,ID8476903,Calgary Flames,Jon Gillies,0,0,away
+207,ID8476409,Calgary Flames,Alan Quine,0,0,away
+208,ID8474673,Calgary Flames,TJ Brodie,0,0,away
+209,ID8476356,Calgary Flames,Tobias Rieder,0,0,away
+210,ID8475762,Calgary Flames,Derek Forbort,0,0,away
+211,ID8479346,Calgary Flames,Dillon Dube,1,0,away
+212,ID8476873,Calgary Flames,Mark Jankowski,0,0,away
+213,ID8474150,Calgary Flames,Mikael Backlund,1,1,away
+214,ID8478512,Calgary Flames,Austin Czarnik,0,0,away
+215,ID8478397,Calgary Flames,Rasmus Andersson,0,0,away
+216,ID8478430,Calgary Flames,Oliver Kylington,0,0,away
+217,ID8478396,Calgary Flames,Noah Hanifin,0,0,away
+218,ID8478233,Calgary Flames,Andrew Mangiapane,2,0,away
+219,ID8475660,Calgary Flames,Cam Talbot,0,0,away
+220,ID8481630,Calgary Flames,Alexander Yelesin,0,0,away
+221,ID8476979,Calgary Flames,Erik Gustafsson,1,0,away
+222,ID8474736,Calgary Flames,Zac Rinaldo,0,0,away
+223,ID8475278,Calgary Flames,Byron Froese,0,0,away
+224,ID8476346,Calgary Flames,Johnny Gaudreau,1,1,away
+225,ID8479314,Calgary Flames,Matthew Tkachuk,0,1,away
+226,ID8473473,Calgary Flames,Milan Lucic,0,1,away
+227,ID8477497,Calgary Flames,Sean Monahan,2,1,away
+228,ID8478585,Calgary Flames,Derek Ryan,0,0,away
+229,ID8477496,Calgary Flames,Elias Lindholm,1,1,away
+230,ID8477210,Calgary Flames,Buddy Robinson,0,0,away
+231,ID8481501,Calgary Flames,Artyom Zagidulin,0,0,away
+232,ID8475735,New York Rangers,Greg McKegg,0,0,home
+233,ID8475855,New York Rangers,Jesper Fast,0,0,home
+234,ID8479324,New York Rangers,Ryan Lindgren,0,0,home
+235,ID8477402,New York Rangers,Pavel Buchnevich,0,0,home
+236,ID8479027,New York Rangers,Brandon Crawley,0,0,home
+237,ID8477962,New York Rangers,Brendan Lemieux,0,0,home
+238,ID8475184,New York Rangers,Chris Kreider,0,1,home
+239,ID8478550,New York Rangers,Artemi Panarin,0,0,home
+240,ID8479323,New York Rangers,Adam Fox,0,0,home
+241,ID8479364,New York Rangers,Tim Gettinger,0,0,home
+242,ID8476396,New York Rangers,Steven Fogarty,0,0,home
+243,ID8478178,New York Rangers,Darren Raddysh,0,0,home
+244,ID8474090,New York Rangers,Brendan Smith,0,0,home
+245,ID8481554,New York Rangers,Kaapo Kakko,0,0,home
+246,ID8480382,New York Rangers,Alexandar Georgiev,0,0,home
+247,ID8471686,New York Rangers,Marc Staal,0,0,home
+248,ID8476858,New York Rangers,Phillip Di Giuseppe,0,0,home
+249,ID8479968,New York Rangers,Vinni Lettieri,0,0,home
+250,ID8476458,New York Rangers,Ryan Strome,1,0,home
+251,ID8479328,New York Rangers,Julien Gauthier,0,0,home
+252,ID8476459,New York Rangers,Mika Zibanejad,0,0,home
+253,ID8477950,New York Rangers,Tony DeAngelo,0,0,home
+254,ID8478048,New York Rangers,Igor Shesterkin,0,0,home
+255,ID8476982,New York Rangers,Danny O'Regan,0,0,home
+256,ID8480833,New York Rangers,Vitali Kravtsov,0,0,home
+257,ID8476885,New York Rangers,Jacob Trouba,1,0,home
+258,ID8479333,New York Rangers,Libor Hajek,0,0,home
+259,ID8479353,New York Rangers,Brett Howden,0,0,home
+260,ID8480078,New York Rangers,Filip Chytil,0,0,home
+261,ID8478904,Carolina Hurricanes,Steven Lorentz,0,0,away
+262,ID8473533,Carolina Hurricanes,Jordan Staal,0,0,away
+263,ID8476869,Carolina Hurricanes,Brady Skjei,1,0,away
+264,ID8477938,Carolina Hurricanes,Haydn Fleury,0,0,away
+265,ID8477998,Carolina Hurricanes,Warren Foegele,0,1,away
+266,ID8478427,Carolina Hurricanes,Sebastian Aho,1,2,away
+267,ID8475799,Carolina Hurricanes,Nino Niederreiter,0,0,away
+268,ID8476921,Carolina Hurricanes,Jordan Martinook,0,0,away
+269,ID8479987,Carolina Hurricanes,Morgan Geekie,0,0,away
+270,ID8475222,Carolina Hurricanes,Sami Vatanen,0,0,away
+271,ID8479402,Carolina Hurricanes,Jake Bean,0,0,away
+272,ID8478056,Carolina Hurricanes,Clark Bishop,0,0,away
+273,ID8477981,Carolina Hurricanes,Roland McKeown,0,0,away
+274,ID8476934,Carolina Hurricanes,Brock McGinn,0,0,away
+275,ID8477968,Carolina Hurricanes,Alex Nedeljkovic,0,0,away
+276,ID8476958,Carolina Hurricanes,Jaccob Slavin,0,0,away
+277,ID8473503,Carolina Hurricanes,James Reimer,0,0,away
+278,ID8477845,Carolina Hurricanes,Trevor van Riemsdyk,0,0,away
+279,ID8476882,Carolina Hurricanes,Teuvo Teravainen,0,1,away
+280,ID8476288,Carolina Hurricanes,Ryan Dzingel,0,0,away
+281,ID8476389,Carolina Hurricanes,Vincent Trocheck,0,0,away
+282,ID8476323,Carolina Hurricanes,Max McCormick,0,0,away
+283,ID8474581,Carolina Hurricanes,Jake Gardiner,0,0,away
+284,ID8476462,Carolina Hurricanes,Dougie Hamilton,0,0,away
+285,ID8476341,Carolina Hurricanes,Anton Forsberg,0,0,away
+286,ID8476441,Carolina Hurricanes,Joel Edmundson,0,0,away
+287,ID8468508,Carolina Hurricanes,Justin Williams,0,0,away
+288,ID8480830,Carolina Hurricanes,Andrei Svechnikov,1,0,away
+289,ID8480039,Carolina Hurricanes,Martin Necas,1,0,away
+290,ID8470626,Vancouver Canucks,Loui Eriksson,0,0,home
+291,ID8474849,Vancouver Canucks,Antoine Roussel,0,0,home
+292,ID8475839,Vancouver Canucks,Louis Domingue,0,0,home
+293,ID8477937,Vancouver Canucks,Jake Virtanen,0,0,home
+294,ID8476468,Vancouver Canucks,J.T. Miller,1,1,home
+295,ID8476871,Vancouver Canucks,Tanner Pearson,0,1,home
+296,ID8478874,Vancouver Canucks,Adam Gaudette,0,0,home
+297,ID8480800,Vancouver Canucks,Quinn Hughes,1,0,home
+298,ID8474574,Vancouver Canucks,Tyler Myers,0,0,home
+299,ID8477500,Vancouver Canucks,Bo Horvat,1,1,home
+300,ID8479442,Vancouver Canucks,Troy Stecher,0,0,home
+301,ID8474593,Vancouver Canucks,Jacob Markstrom,0,0,home
+302,ID8478970,Vancouver Canucks,Jalen Chatfield,0,0,home
+303,ID8480147,Vancouver Canucks,Oscar Fantenberg,0,0,home
+304,ID8474291,Vancouver Canucks,Jay Beagle,0,0,home
+305,ID8481479,Vancouver Canucks,Brogan Rafferty,0,0,home
+306,ID8474091,Vancouver Canucks,Brandon Sutter,0,0,home
+307,ID8475907,Vancouver Canucks,Micheal Ferland,0,0,home
+308,ID8474818,Vancouver Canucks,Jordie Benn,0,0,home
+309,ID8475726,Vancouver Canucks,Tyler Toffoli,0,0,home
+310,ID8471303,Vancouver Canucks,Alexander Edler,2,0,home
+311,ID8478444,Vancouver Canucks,Brock Boeser,0,1,home
+312,ID8476344,Vancouver Canucks,Tyler Graovac,0,0,home
+313,ID8475690,Vancouver Canucks,Christopher Tanev,0,0,home
+314,ID8477473,Vancouver Canucks,Justin Bailey,0,0,home
+315,ID8479355,Vancouver Canucks,Olli Juolevi,0,0,home
+316,ID8477353,Vancouver Canucks,Tyler Motte,0,0,home
+317,ID8479772,Vancouver Canucks,Zack MacEwen,0,0,home
+318,ID8480012,Vancouver Canucks,Elias Pettersson,1,0,home
+319,ID8474749,Minnesota Wild,Matt Bartkowski,0,0,away
+320,ID8471774,Minnesota Wild,Alex Stalock,0,0,away
+321,ID8470600,Minnesota Wild,Ryan Suter,1,0,away
+322,ID8479933,Minnesota Wild,Gerald Mayhew,0,0,away
+323,ID8477366,Minnesota Wild,Luke Johnson,0,0,away
+324,ID8477369,Minnesota Wild,Carson Soucy,0,0,away
+325,ID8476851,Minnesota Wild,Alex Galchenyuk,0,0,away
+326,ID8478413,Minnesota Wild,Jordan Greenway,0,0,away
+327,ID8478039,Minnesota Wild,Kaapo Kahkonen,0,0,away
+328,ID8478011,Minnesota Wild,Louie Belpedio,0,0,away
+329,ID8475220,Minnesota Wild,Marcus Foligno,0,0,away
+330,ID8478493,Minnesota Wild,Joel Eriksson Ek,0,0,away
+331,ID8481477,Minnesota Wild,Nico Sturm,0,0,away
+332,ID8474716,Minnesota Wild,Jared Spurgeon,0,0,away
+333,ID8470595,Minnesota Wild,Eric Staal,2,0,away
+334,ID8477987,Minnesota Wild,Ryan Donato,0,0,away
+335,ID8477942,Minnesota Wild,Kevin Fiala,0,2,away
+336,ID8476415,Minnesota Wild,Kyle Rau,0,0,away
+337,ID8476437,Minnesota Wild,Victor Rask,0,0,away
+338,ID8470610,Minnesota Wild,Zach Parise,2,0,away
+339,ID8476856,Minnesota Wild,Matt Dumba,1,0,away
+340,ID8476779,Minnesota Wild,Brad Hunt,0,0,away
+341,ID8479316,Minnesota Wild,Luke Kunin,0,1,away
+342,ID8479734,Minnesota Wild,Brennan Menell,0,0,away
+343,ID8477451,Minnesota Wild,Ryan Hartman,0,0,away
+344,ID8475692,Minnesota Wild,Mats Zuccarello,0,0,away
+345,ID8476463,Minnesota Wild,Jonas Brodin,0,0,away
+346,ID8481443,Minnesota Wild,Mat Robson,0,0,away
+347,ID8469459,Minnesota Wild,Mikko Koivu,0,0,away
